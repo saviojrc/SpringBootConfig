@@ -1,10 +1,10 @@
-package com.digitalinonovationone.SpringBootConfig;
+package com.digitalinnovationone.SpringBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootConfigApplicationTests {
+class ProjetoComSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
