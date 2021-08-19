@@ -27,7 +27,7 @@ public class DBConfiguration {
 		System.out.println("DB connection for DEV - H2");
 		System.out.println(driverClassName);
 		System.out.println(url);
-		return "<strong>DB Connection to H2_TEST - Test instance</strong>";
+		return "DB Connection to H2_TEST - Test instance";
 
 	}
 
@@ -37,7 +37,7 @@ public class DBConfiguration {
 		System.out.println("DB connection for Production - MySql");
 		System.out.println(driverClassName);
 		System.out.println(url);
-		return "<strong>DB Connection to MYSQL_TEST - Production instance</strong>";
+		return "DB Connection to MYSQL_TEST - Production instance";
 
 	}
 
